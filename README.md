@@ -22,6 +22,12 @@ Be patient, this step may take some time.
 ## Notebooks
 
 The notebooks are in `notebooks` directory.
+Order of review:
+1. `3Dreconstruction`
+2. `voxel_reconstruction`
+3. `nerf_reconstruction`
+4. `fourier_nerf`
+5. `ingp-1`
 
 
 ## Acknowledgement
