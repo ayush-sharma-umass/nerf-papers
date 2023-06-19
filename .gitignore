@@ -1,0 +1,9 @@
+*.pth
+../model_checkpoints/
+.ipynb_checkpoints
+*.lock
+*.pyc
+data/
+*.log
+*.txt
+.venv/
